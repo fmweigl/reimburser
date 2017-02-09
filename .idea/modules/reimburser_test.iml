@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="reimburser:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="de.welt.reimburser" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="1">
+        <option name="compilerInfo">
+          <KotlinCompilerInfo>
+            <option name="compilerSettings">
+              <CompilerSettings>
+                <option name="additionalArguments" value="-version" />
+                <option name="copyJsLibraryFiles" value="true" />
+                <option name="outputDirectoryForJsLibraryFiles" value="lib" />
+              </CompilerSettings>
+            </option>
+            <option name="k2jsCompilerArguments">
+              <K2JSCompilerArguments>
+                <option name="outputFile" />
+                <option name="noStdlib" value="false" />
+                <option name="libraryFiles" />
+                <option name="sourceMap" value="false" />
+                <option name="metaInfo" value="false" />
+                <option name="kjsm" value="false" />
+                <option name="target" />
+                <option name="moduleKind" />
+                <option name="main" />
+                <option name="outputPrefix" />
+                <option name="outputPostfix" />
+                <option name="languageVersion" />
+                <option name="apiVersion" />
+                <option name="suppressWarnings" value="false" />
+                <option name="verbose" value="false" />
+                <option name="version" value="false" />
+                <option name="help" value="false" />
+                <option name="extraHelp" value="false" />
+                <option name="noInline" value="false" />
+                <option name="repeat" />
+                <option name="pluginClasspaths" />
+                <option name="pluginOptions" />
+                <option name="freeArgs">
+                  <list />
+                </option>
+                <option name="unknownExtraFlags">
+                  <list />
+                </option>
+              </K2JSCompilerArguments>
+            </option>
+            <option name="_commonCompilerArguments">
+              <DummyImpl>
+                <option name="languageVersion" />
+                <option name="apiVersion" />
+                <option name="suppressWarnings" value="false" />
+                <option name="verbose" value="false" />
+                <option name="version" value="false" />
+                <option name="help" value="false" />
+                <option name="extraHelp" value="false" />
+                <option name="noInline" value="false" />
+                <option name="repeat" />
+                <option name="pluginClasspaths">
+                  <array />
+                </option>
+                <option name="pluginOptions">
+                  <array />
+                </option>
+                <option name="freeArgs">
+                  <list />
+                </option>
+                <option name="unknownExtraFlags">
+                  <list />
+                </option>
+              </DummyImpl>
+            </option>
+          </KotlinCompilerInfo>
+        </option>
+        <option name="versionInfo">
+          <KotlinVersionInfo>
+            <option name="apiLevel" value="1.0" />
+            <option name="languageLevel" value="1.0" />
+            <option name="targetPlatformName" value="JVM 1.6" />
+          </KotlinVersionInfo>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="reimburser_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.apis:google-api-services-androidpublisher:v2-rev37-1.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-runtime:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.api-client:google-api-client:1.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.oauth-client:google-oauth-client:1.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client-jackson2:1.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava-jdk5:17.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client:1.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="reimburser_main" />
+</module>
